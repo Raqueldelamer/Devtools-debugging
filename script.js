@@ -1,10 +1,11 @@
 // Error 1:
 let message = 'Welcome to the debugging exercise!';
-console.log(mesage); 
+console.log(message);
 
 // Error 2: 
 let button = document.querySelector('.actionButton'); 
-button.addEventListener('click', eventHandler); 
+actionButton.addEventListener('click', eventHandler); 
+
 
 // Error 3: 
 function eventHandler() {
@@ -19,14 +20,16 @@ function displayOutput() {
 }
 
 // Error 6: Misusing variable scope
-function updateMessage() {
+function localMessage() {
   let localMessage = 'Updated message';
 }
+
 updateMessage();
 console.log(localMessage); 
 
 // Error 7:
-document.getElementById('testButton').addEventListener('click', testFunction());
+
+actionButton.getElementById('actionButton').addEventListener('click', testFunction());
 
 function testFunction() {
   console.log('Test function executed');
@@ -62,7 +65,8 @@ let someNumber = 123;
 console.log(someNumber.toUpperCase()); 
 
 // Error 15: 
-let greeting = Hello, world!;
+let greeting = "Hello, world!";
+
 
 // Error 16: 
 for (let i = 0; i < 5; i++); {
@@ -75,6 +79,7 @@ if (five === 5) {
     console.log('Five is equal to 5'); // This one should be logged
 } else {
     console.log('Five is not equal to 5'); 
+
 
 // Error 18:
 Array.prototype.push = function() {
@@ -89,6 +94,7 @@ console.log(x);
 x = 5;
 
 // Error 20:
-let myString = 'Hello';
-myString.property = 'World';
-console.log(myString.property); 
+let myString = 'Hello'; 
+cmyString.property = 'World'; 
+}
+console.log(myString.property);
