@@ -25,11 +25,11 @@ function localMessage() {
   console.log(localMessage); 
 }
 
-updateMessage();
 
 // Error 7:
 
-document.getElementById('testButton').addEventListener('click', testFunction());
+document.getElementById('testButton')
+document.addEventListener('click', testFunction());
 
 function testFunction() {
   console.log('Test function executed');
@@ -54,7 +54,9 @@ let importantData =
 console.log(importantData);
 
 // Error 12: 
-tryToCallFunction();
+function tryToCall() {
+  
+}
 
 // Error 13:
 let userName = 'Alice';
