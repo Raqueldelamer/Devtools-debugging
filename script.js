@@ -27,11 +27,10 @@ function localMessage() {
 
 
 // Error 7:
-
-document.getElementById('testButton')
-document.addEventListener('click', testFunction());
+document.addEventListener('click', testFunction)
 
 function testFunction() {
+  document.getElementById("testButton").innerHTML = "Test function executed";
   console.log('Test function executed');
 }
 
