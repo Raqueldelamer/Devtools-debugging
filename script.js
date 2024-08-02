@@ -16,7 +16,7 @@ function eventHandler() {
 // Error 4: 
 function displayOutput() {
   let output = document.querySelector('#output'); 
-  output.innerText = 'You clicked the button!';
+  output.innerText = 'Yay!! You clicked the button!';
 }
 
 // Error 6: Misusing variable scope
@@ -55,23 +55,25 @@ console.log("importantData");
 
 // Error 12: 
 function tryToCall() {
+  console.log('Try to call!');
   
 }
 
 // Error 13:
 let userName = 'Alice';
-console.log(user.name)
+console.log(userName)
 
 // Error 14: 
 let someNumber = 123;
-console.log(someNumber.toUpperCase()); 
+console.log(someNumber); 
 
 // Error 15: 
 let greeting = "Hello, world!";
 
 
 // Error 16: 
-for (let i = 0; i < 5; i++); {
+let i = 0; 
+if (i < 5 === i++); {
     console.log(i);
 }
 
@@ -89,12 +91,11 @@ Array.prototype.push = function() {
 }
 
 let numbers = 1;
-numbers.push(1);
 console.log(numbers);
 
 // Error 19:
+let x = 5;
 console.log(x);
-x = 5;
 
 // Error 20:
 let myString = 'Hello'; 
