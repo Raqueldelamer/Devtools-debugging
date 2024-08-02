@@ -1,0 +1,11 @@
+## Debugging Exercise: Capture Secret Message Part 2
+- 'task-11': 'Secret Message for Task 11', secret message= "Whisper"
+- 'task-12': 'Secret Message for Task 12', secret message= "Meadow"
+- 'task-13': 'Secret Message for Task 13', secret message= "French Toast"
+- 'task-14': 'Secret Message for Task 14', secret message= "Galaxy"
+- 'task-15': 'Secret Message for Task 15', secret message= "Dinosaur"
+- 'task-16': 'Secret Message for Task 16', secret message= "Rainbow"
+- 'task-17': 'Secret Message for Task 17', secret message= "Pyramid"
+- 'task-18': 'Secret Message for Task 18', secret message= "Orbit"
+- 'task-19': 'Secret Message for Task 19', secret message= "Nebula"
+- 'task-20': 'Secret Message for Task 20', secret message= "Zenith"
