@@ -56,7 +56,7 @@
 
 ### Step 4: Reflect
 
-- I learned that it is extremely important to recognize that paying close attention to detail in all aspects of coding is absolutely necessary -focus on adjectives-. For example, where meta tags belong and where unnecessary style classes don't belong. Also recognizing that file size affects a site's performance is vital too, whether it involves the file size that the programmer is using, or sizing it smaller in the style sheet. I've also learned that there are various ways to code that have the same outcomes, some being long and more difficult than other code that has the same result. It's necessary to learn the harder code, but I would definitely like to learn the easier way to code that saves time too.  
+- I learned that it is extremely important to recognize that paying close attention to detail in all aspects of coding is absolutely necessary. For example, where meta tags belong and where unnecessary style classes don't belong. Also recognizing that file size affects a site's performance is vital too, whether it involves the file size that the programmer is using, or sizing it smaller in the style sheet. I've also learned that there are various ways to code that have the same outcomes, some being long and more difficult than other code that has the same result. It's necessary to learn the harder code, but I would definitely like to learn the easier way to code that saves time too.  
 
 ## Submission
 
