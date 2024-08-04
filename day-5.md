@@ -39,7 +39,7 @@
 #### Problem 9: n/a
 
 #### Problem 10: 
-- Description:  $ ('body output').append (blah blah ) ; is incorrect. To be frank, if you hadn't entered the correct code today, I would've never known the correct code at this point since this part of coding is my Achilles heel, and we haven't learned this, or if we have, my brain is so mushed up that I couldn't retain all the info. I could see that "body output" was incorrect but i couldn't figure the correct code, which is -> $ ( ' #output').append(..); 
+- Description:  $ ('body output').append (blah blah ) ; is incorrect. To be frank, if you hadn't entered the correct code today, it would've taken me a while to get the correct code since funcrions are my Achilles heel. I could see that "body output" was incorrect but i couldn't figure the correct code, which is -> $ ( ' #output').append(..); 
 
 ### Step 3: Propose Solutions
 
