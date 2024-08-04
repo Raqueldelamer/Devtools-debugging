@@ -39,7 +39,7 @@
 #### Problem 9: n/a
 
 #### Problem 10: 
-- Description:  $('body output').append (blah blah ) ; is incorrect. To be frank, if you hadn't entered the correct code today, I would've never known the correct code at this point since this part of coding is my Achilles heel, and we haven't learned this, or if we have, my brain is so mushed up that I couldn't retain all the info. I could see that "body output" was incorrect but i couldn't figure the correct code, which is -> $('#output').append(..); thank you for that
+- Description:  $ ('body output').append (blah blah ) ; is incorrect. To be frank, if you hadn't entered the correct code today, I would've never known the correct code at this point since this part of coding is my Achilles heel, and we haven't learned this, or if we have, my brain is so mushed up that I couldn't retain all the info. I could see that "body output" was incorrect but i couldn't figure the correct code, which is -> $ ( ' #output').append(..); 
 
 ### Step 3: Propose Solutions
 
@@ -59,6 +59,8 @@
 - I learned that it is extremely important to recognize that paying close attention to detail in all aspects of coding is absolutely necessary. For example, where meta tags belong and where unnecessary style classes don't belong. Also recognizing that file size affects a site's performance is vital too, whether it involves the file size that the programmer is using, or sizing it smaller in the style sheet. I've also learned that there are various ways to code that have the same outcomes, some being long and more difficult than other code that has the same result. It's necessary to learn the harder code, but I would definitely like to learn the easier way to code that saves time too.  
 
 ## Submission
+
+<img src="img/aug-3.jpg">
 
 - Submit this README.md file with all the problems documented and solved, along with your reflection. Ensure that your explanations are clear and concise.
 
